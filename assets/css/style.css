@@ -1,0 +1,48 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    background-color: lightblue;
+}
+#wrapper {
+    text-align: center;
+}
+
+#title {
+    font-size: 5em;
+}
+
+#start-button {
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#end {
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h2 {
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px;
+}
+
+input {
+    font-size: 30px;
+}
